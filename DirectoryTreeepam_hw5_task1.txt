@@ -1,0 +1,13 @@
+Directory : epam_hw5_task1
+->.idea
+--->inspectionProfiles
+--->misc.xml
+--->modules.xml
+--->workspace.xml
+->DirectoryTreeepam_hw5_task1.txt
+->Directory__epam_hw5_task1.txt
+->epam_hw5_task1.iml
+->out
+--->production
+->src
+--->Main.java
